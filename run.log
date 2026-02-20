@@ -1,0 +1,10 @@
+2026-02-20 06:45:58,609 - INFO - Job started
+2026-02-20 06:45:58,612 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-20 06:45:58,617 - ERROR - Required column 'close' not found in dataset.
+2026-02-20 06:46:14,546 - INFO - Job started
+2026-02-20 06:46:14,547 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-02-20 06:46:14,552 - INFO - Data loaded: 10 rows
+2026-02-20 06:46:14,560 - INFO - Rolling mean calculated with window=5
+2026-02-20 06:46:14,561 - INFO - Signals generated
+2026-02-20 06:46:14,562 - INFO - Metrics: signal_rate=0.3, rows_processed=10
+2026-02-20 06:46:14,563 - INFO - Job completed successfully in 15ms
